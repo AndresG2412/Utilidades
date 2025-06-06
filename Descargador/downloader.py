@@ -1,3 +1,5 @@
+# pip install yt_dlp
+
 import yt_dlp as youtube_dl
 
 def descargar_video(url):
